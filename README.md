@@ -6,7 +6,7 @@
   </a>
 </p>
 <!-- Title -->
-<h1 align="center"><b>CS519.M11 - PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC</b></h1>
+<h1 align="center"><b>CS519.O11 - PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC</b></h1>
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC
