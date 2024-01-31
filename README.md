@@ -15,6 +15,9 @@
 * **Năm học:** HK1 (2023 - 2024)
 * **Giảng viên:** **PGS. TS. Lê Đình Duy** - *duyld@uit.edu.vn*
 
+## Project
+- **Name**: CAMOUFLAGED INSTANCE SEGMENTATION USING DEEP LEARNING MODELS
+
 ## GIỚI THIỆU 
 | STT | Họ tên | MSSV |
 | :---: | --- | --- |
